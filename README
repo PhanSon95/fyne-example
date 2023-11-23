@@ -1,0 +1,16 @@
+## Command build app
+
+```
+fyne package --icon icon.jpg .
+```
+
+## Error when open app
+
+- 1. when run by terminal, it run ok
+
+```
+./myapp.exe
+```
+
+- 2.1 but open in file manager and double click to file myapp.exe -> it not work.
+  I've open with adminstrator but not work too!
