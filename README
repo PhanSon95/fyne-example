@@ -4,6 +4,11 @@
 fyne package --icon icon.jpg .
 ```
 
+## Command install app
+```
+fyne install --icon icon.jpg
+```
+
 ## Error when open app
 
 - 1. when run by terminal, it run ok
